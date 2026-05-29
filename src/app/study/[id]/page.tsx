@@ -153,7 +153,7 @@ function StudyCanvas({ diagram, config, onBack }: {
   )
 }
 
-// ─── Page ─────────────────────────────────────────────────────────────────────
+// ─── Page ───────────────────────────────────────────────────────────[...]
 export default function StudyPage() {
   const params = useParams()
   const router = useRouter()
